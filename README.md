@@ -3,10 +3,15 @@
 As a Software Test Engineer at Bosch Hungary, I am passionate about Embedded Systems, Testing Techniques, Control Panel Design, Industrial Automation, Control Systems, and the Internet of Things. My expertise lies in Application Engineering and manual software testing for embedded systems, as well as control panel design.
 
 ## 💻 My Current Projects
-I am currently diving into the world of C, C++, and Java for Embedded Systems and Testing, as well as Python for future AI projects. My previous work experience includes software testing for automotive systems and Industrial Refrigeration, HVAC, and Energy Saving Electrical Panel Design and Automation. I also have experience in designing and implementing SCADA systems, as demonstrated in my Bsc thesis which involved using front-end programming languages (PHP) and Codesys PLC languages to control and monitor a house heating system and an industrial-grade water tank.
+
+I am currently doing a Specialization course in Automotive Embedded Systems in the Federal University of Paraná - UTFPR in a distance learning set. I will post my evolution and projects related to it here as well. 
+
+I am currently diving into the world of C, C++,  for Embedded Systems and Testing. When I have free studying time, I like to check Python for automated tests and future AI projects. My previous work experience includes software testing for automotive systems, and extensive eletrotechnical and automation for Industrial Refrigeration, HVAC, and Energy Saving Electrical Panel Design. 
+
+I have shown my versatility as a professional by challenging myself, in my thesis,  to build a proof-of-concept for a SCADA system which involved learning and using web-oriented programming languages and concepts (PHP, JS, REST) and Codesys PLC languages to control and monitor a house heating system and an industrial-grade water tank.
 
 ## 🏆 My Goals
-My goal is to become a multi-faceted, versatile professional who is always up-to-date with the latest technologies. I strive to continuously expand my knowledge and skills, and find new ways to apply them to my work.
+My goal is to become a multi-faceted, versatile professional who is always up-to-date with the latest technologies. I strive to continuously expand my knowledge and skills, and find new ways to apply them to my work. I am a big advocate for lifelong learning. 
 
 ## 🚴‍♂️ When I'm Not Working
 When I'm not working, I enjoy keeping active through cycling, swimming, and traveling. I also love to relax and catch up on my favorite TV shows.
