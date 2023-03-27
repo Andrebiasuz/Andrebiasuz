@@ -4,7 +4,7 @@ As a Software Test Engineer at Bosch Hungary, I am passionate about Embedded Sys
 
 ## 💻 My Current Projects
 
-I am currently on a journey of continuous learning (LLL) You can track my daily progress on this [Learning log]https://github.com/Andrebiasuz/Andrebiasuz/blob/main/LLL_Log.md
+I am currently on a journey of continuous learning (LLL) You can track my daily progress on this [Learning log](https://github.com/Andrebiasuz/Andrebiasuz/blob/main/LLL_Log.md)
 
 I am currently diving into the world of C, C++,  for Embedded Systems and Testing. When I have free studying time, I like to check Python for automated tests and future AI projects. My previous work experience includes software testing for automotive systems, and extensive eletrotechnical and automation for Industrial Refrigeration, HVAC, and Energy Saving Electrical Panel Design. 
 
