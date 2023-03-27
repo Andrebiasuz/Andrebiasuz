@@ -5,7 +5,6 @@
 ### Goals:
 - To have a template training structure for the next 6 months
 - Organize thoughts in writing to better grasp my professional needs
-- 
 ### Learning activities:
 
 
