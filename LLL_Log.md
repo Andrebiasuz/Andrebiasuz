@@ -19,3 +19,32 @@
 ### Next Steps:
   - Continue reading of Chapter 2
   - Introduce new Learning topic tomorrow (ISTQB)
+
+
+## March 28, 2023 - 100 min session
+
+### Topic: Organize training structure
+
+### Goals:
+- Read ISTQB Sylabus Chapter 2
+### Learning activities:
+Software Development Lifecycle Models
+Software Development and Software Testing
+Software Development Lifecycle Models in Context
+Test Levels
+  Component Testing
+  Integration Testing
+  System Testing
+  Acceptance Testing
+
+### Key Takeaways:
+  - Every SDLC is suitable for a feature or different test object. 
+  - Software testing must be a part of the early stages of SW Dev, to reduce time to market and operational and development costs, as well as product operational confidence
+  - Component testing is basic unit or modular testing. TDD is key here. 
+  - Integration Testing is the integration between components and it is an integral part of CI , or Continuous Integration, with every component being heavily test automated. 
+  - System testing is usually done by tests with business requirements in hands, and evaluates the behavior of a system as a whole, in an input to output fashion. System integration testing is crucial. 
+  - Acceptance testing usually sits on the high Test Levels and basically involves the interaction between users and stakeholders to check business requirements and protection against disasters. A failure in the acceptance testing is a huge project risk, hence that importance of the tests in the lower levels. 
+### Next Steps:
+  - Finalize chapter 2 of ISTQB Sillabus, 
+  - Take Sample Exam to assert knowledge. 
+
