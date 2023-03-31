@@ -21,7 +21,7 @@
   - Introduce new Learning topic tomorrow (ISTQB)
 
 
-## March 28, 2023 - 100 min session
+## March 30, 2023 - 100 min session
 
 ### Topic: Organize training structure
 
@@ -48,3 +48,15 @@ Test Levels
   - Finalize chapter 2 of ISTQB Sillabus, 
   - Take Sample Exam to assert knowledge. 
 
+
+## March 30, 2023 - 100 min session
+
+### Topic: Organize training structure
+
+### Goals:
+- Finish ISTQB Chapter 2 and start Chapter 3 
+### Learning activities:
+
+### Key Takeaways:
+
+### Next Steps:
