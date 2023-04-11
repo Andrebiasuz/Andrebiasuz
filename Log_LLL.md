@@ -4,3 +4,5 @@
 - 30/03/2023 - ISTQB Foundation Syllabus Chapter 2
 - 31/03/2023 - ISTQB Foundation Syllabus Chapter 2 / 3 and Sample Exams for Chapter 2 - 81% correct (17/21)
 - 03/04/2023 - ISTQB Foundation Syllabus Chapter 3 and Sample Exams for Chapter 3 - 60% correct (9/15)
+- 06/04/2023 - Embedded Systems (TDD) - Chapter 2 and CppUTestconfig on VS Code (on going)
+- 11/04/2023 - ISTQB Foundation Syllabus Chapter 4 - Until Black Box Techniques
