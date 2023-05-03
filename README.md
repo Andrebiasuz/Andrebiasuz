@@ -4,8 +4,6 @@ As a Software Test Engineer at Bosch Hungary, I am passionate about Embedded Sys
 
 ## 💻 My Current Projects
 
-I am currently on a journey of continuous learning (LLL) You can track my daily progress on this [Learning log](https://github.com/Andrebiasuz/Andrebiasuz/blob/main/Log_LLL.md)
-
 I am currently diving into the world of C, C++,  for Embedded Systems and Testing. When I have free studying time, I like to check Python for automated tests and future AI projects. My previous work experience includes software testing for automotive systems, and extensive eletrotechnical and automation for Industrial Refrigeration, HVAC, and Energy Saving Electrical Panel Design. 
 
 I have shown my versatility as a professional by challenging myself, in my thesis,  to build a proof-of-concept for a SCADA system which involved learning and using web-oriented programming languages and concepts (PHP, JS, REST) and Codesys PLC languages to control and monitor a house heating system and an industrial-grade water tank.
@@ -17,7 +15,6 @@ My goal is to become a multi-faceted, versatile professional who is always up-to
 When I'm not working, I enjoy keeping active through cycling, swimming, and traveling. I also love to relax and catch up on my favorite TV shows.
 
 Feel free to connect with me and let's chat about anything from code to hobbies! 💬
-
 
 <div>
 <a href="https://github.com/Andrebiasuz">
