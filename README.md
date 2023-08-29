@@ -4,7 +4,9 @@ As a Software Test Engineer at Bosch Hungary, I am passionate about Embedded Sys
 
 ## 💻 My Current Projects
 
-I am currently diving into the world of C, C++,  for Embedded Systems and Testing. When I have free studying time, I like to check Python for automated tests and future AI projects. My previous work experience includes software testing for automotive systems, and extensive eletrotechnical and automation for Industrial Refrigeration, HVAC, and Energy Saving Electrical Panel Design. 
+I am currently diving into the world of computer engineering oriented to Industrial and Building Automation, Embedded Systems and Testing. When I have free studying time, I like to imerse into my personal projects, using the challenge based learning approach. 
+
+My previous work experience includes software testing for automotive systems, and extensive eletrotechnical and automation for Industrial Refrigeration, HVAC, and Energy Saving Electrical Panel Design. 
 
 I have shown my versatility as a professional by challenging myself, in my thesis,  to build a proof-of-concept for a SCADA system which involved learning and using web-oriented programming languages and concepts (PHP, JS, REST) and Codesys PLC languages to control and monitor a house heating system and an industrial-grade water tank.
 
