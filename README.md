@@ -1,6 +1,6 @@
 # Hi there! 🙋‍♂️ I'm André
 
-As a Software Test Engineer at Bosch Hungary, I am passionate about Embedded Systems, Testing Techniques, Control Panel Design, Industrial Automation, Control Systems, and the Internet of Things. My expertise lies in Application Engineering and manual software testing for embedded systems, as well as control panel design.
+ I am passionate about Embedded Systems, Testing Techniques, Control Panel Design, Industrial Automation, Control Systems, Power Systems, and the Internet of Things. My expertise lies in Application Engineering and manual software testing for embedded systems, as well as control panel design.
 
 ## 💻 My Current Projects
 
